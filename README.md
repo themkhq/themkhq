@@ -21,10 +21,16 @@
 <!--   <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!--   <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </div>
+
 <br>
-<p align="center">
+
+<div align="center">
 <a href="https://github.com/themkhq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=themkhq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=themkhq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
+
+<div algin="right">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pobTFjajY4ZmZoODBtOGgwemJjaHk2enBuanlqYWJqdjZpOG1qMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif"/>
+</div>
