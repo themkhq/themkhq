@@ -1,27 +1,23 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
 </div>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there;I+am+Masud+Khan;Software+Engineer;Welcome+to+My+Profile" />
+
+<div align="center">
+  <h2>Hi there, I'm Masud 👋</h2>
+  <p>
+     I'm a passionate Full-Stack Developer from Bangladesh 🇧🇩 <br>
+     I enjoy building web applications using Django and React,<br>
+     and I'm always working to improve my skills.
+  </p>
 </div>
-
-I'm a passionate **Full-Stack Developer** from Bangladesh 🇧🇩  
-Currently learning and building with **Python, Django, JavaScript, React, and Bootstrap**.  
-I enjoy turning ideas into real web applications and always strive to write clean, efficient code.
-
----
-
-### 🔧 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap, React
-- 🖥️ Backend: Python, Django, Django REST Framework
-- 🗃️ Database: SQLite, PostgreSQL
-- 🛠️ Tools: Git, GitHub, VS Code, Ubuntu
-
----
-
-### 📈 GitHub Stats
-![Masud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasudKhan-dev&show_icons=true&theme=radical)
-
----
-
-### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- Portfolio: [Your Portfolio Website](https://your-portfolio-link.com)
-- Email: your.email@example.com
+     
+<div align="center">
+<!--   <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
+  <a href="mailto:themkhq@gmail.com"><img src="https://img.shields.io/badge/-themkhq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/iammaasud"><img src="https://img.shields.io/badge/-Masud-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/themkhq"><img src="https://img.shields.io/badge/-Masud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!--   <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!--   <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+</div>
