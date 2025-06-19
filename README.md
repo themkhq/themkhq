@@ -24,13 +24,13 @@
 
 <br>
 
-<div>
+<div align="center">
 <a href="https://github.com/themkhq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=themkhq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=themkhq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
 
-<div algin="right">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pobTFjajY4ZmZoODBtOGgwemJjaHk2enBuanlqYWJqdjZpOG1qMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif"/>
+<div algin="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pobTFjajY4ZmZoODBtOGgwemJjaHk2enBuanlqYWJqdjZpOG1qMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" width="50%"/>
 </div>
