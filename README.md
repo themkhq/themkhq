@@ -31,6 +31,4 @@
 </a>
 </div>
 
-<div algin="left">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pobTFjajY4ZmZoODBtOGgwemJjaHk2enBuanlqYWJqdjZpOG1qMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" width="100"/>
-</div>
+
