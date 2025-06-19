@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Masud 👋
 
-<!--
-**themkhq/themkhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** from Bangladesh 🇧🇩  
+Currently learning and building with **Python, Django, JavaScript, React, and Bootstrap**.  
+I enjoy turning ideas into real web applications and always strive to write clean, efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap, React
+- 🖥️ Backend: Python, Django, Django REST Framework
+- 🗃️ Database: SQLite, PostgreSQL
+- 🛠️ Tools: Git, GitHub, VS Code, Ubuntu
+
+---
+
+### 📈 GitHub Stats
+![Masud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasudKhan-dev&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- Portfolio: [Your Portfolio Website](https://your-portfolio-link.com)
+- Email: your.email@example.com
