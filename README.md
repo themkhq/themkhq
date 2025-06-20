@@ -12,23 +12,21 @@
      and I'm always working to improve my skills.
   </p>
 </div>
-     
-<div align="center">
+
+<!-- <div align="center">
 <!--   <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
-  <a href="mailto:themkhq@gmail.com"><img src="https://img.shields.io/badge/-themkhq-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/iammaasud"><img src="https://img.shields.io/badge/-Masud-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/themkhq"><img src="https://img.shields.io/badge/-Masud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!--   <a href="mailto:themkhq@gmail.com"><img src="https://img.shields.io/badge/-themkhq-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+<!--   <a href="https://instagram.com/iammaasud"><img src="https://img.shields.io/badge/-Masud-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<!--   <a href="https://facebook.com/themkhq"><img src="https://img.shields.io/badge/-Masud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <!--   <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!--   <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/themkhq">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=themkhq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=themkhq&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
+<!-- </div> -->
+<!-- <br> -->
+<!-- <div align="center"> -->
+<!-- <a href="https://github.com/themkhq"> -->
+<!--   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=themkhq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=themkhq&layout=compact&langs_count=8&theme=algolia"/> -->
+<!-- </a> -->
+<!-- </div> -->
 
 
